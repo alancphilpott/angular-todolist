@@ -9,11 +9,11 @@
 }
 
 .todo {
-  background: #f4f4f4;
+  background: rgb(255, 191, 191);
   padding: 10px;
   border-bottom: 1px #ccc dotted;
 }
 
 .is-complete {
-  opacity: 50%;
+  background-color: rgb(191, 255, 191);
 }

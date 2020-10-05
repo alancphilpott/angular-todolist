@@ -11,7 +11,6 @@ import { HeaderComponent } from './components/layout/header/header.component';
 import { AddTodoComponent } from './components/add-todo/add-todo.component';
 import { AboutComponent } from './components/pages/about/about.component';
 import { NotificationComponent } from './components/notification/notification.component';
-import { MessagesModule } from 'primeng/messages';
 
 @NgModule({
   declarations: [
@@ -22,7 +21,6 @@ import { MessagesModule } from 'primeng/messages';
     AddTodoComponent,
     AboutComponent,
     NotificationComponent,
-    MessagesModule,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, FormsModule],
   providers: [],

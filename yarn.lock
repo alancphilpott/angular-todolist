@@ -6677,6 +6677,18 @@ prepend-http@^1.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
 
+primeicons@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-4.0.0.tgz#a3594b3af213dcf8c4c3d6fc99eea05b7c92f57c"
+  integrity sha512-JQBIswGSItn8I0Pq21RchENpKJxSi1MjfBDfggMQpXtoKNKblJoHmol/7tCV3CAV2Dlb94ht8TD8qdIAW01pGg==
+
+primeng@^10.0.2:
+  version "10.0.2"
+  resolved "https://registry.yarnpkg.com/primeng/-/primeng-10.0.2.tgz#dcdfc198a9670d7a90d90d4e6e1433f8c496cf6a"
+  integrity sha512-wvfFZGC0CygwVkwNdEjaGvb/ROwzm/kqchYbXoeSRknRSByCAY8zpFpNfHsMCSdEig0UDRrUzCUuJEjvGfl1eQ==
+  dependencies:
+    tslib "^2.0.0"
+
 process-nextick-args@~2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
